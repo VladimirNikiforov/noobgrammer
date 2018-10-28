@@ -1,0 +1,4 @@
+It has many bugs (definitely prone to SQL injections) and major design flaws (can't maximize or minimize). 
+I don't have any plans on improving it. The mistakes I made are just a lesson for future projects. 
+If anyone wants to modify the project or use it for their academics then I will provide a documentation 
+for the code and the implementation.
